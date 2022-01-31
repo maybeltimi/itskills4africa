@@ -1,0 +1,1191 @@
+.logo{
+    width: 15%;
+}
+.index_row_one{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.donate_btn{
+    background-color: #023047 !important;
+    border: 1px solid #023047 !important;
+    color: #fff !important;
+}
+.what_we_do_btn{
+    background-color: #fff !important;
+    border: 1px solid #fff !important;
+    color: #023047 !important;
+}
+.learn_more_btn{
+    background-color: #FB8500 !important;
+    border: 1px solid #FB8500 !important;
+    color: #fff !important;
+}
+.index_one_img{
+    width: 100%;
+    position: absolute;
+}
+.index_content_col_one{
+    padding-left: 100px !important; 
+    padding-top: 50px;
+}
+.index_content_title{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.index_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+.index_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+.index_subscript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+.index_row_two_col_one{
+    padding-left: 70px !important; 
+    padding-top: 50px;
+}
+.index_row_two_col_two{
+    padding-left: 70px !important; 
+    padding-top: 50px;
+}
+.index_row_three{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 100px 100px 0 100px;
+}
+.row_one{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    background-color: #FEE7CC;
+}
+.index_content{
+    color: #fff;
+}
+.index_row_two{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 230px;
+    padding: 0px 100px 0 100px;
+}
+.index_row_two_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #023047;
+}
+.index_row_three_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #023047;
+}
+.aboutpage_content{
+    padding: 50px 150px 0 90px;
+}
+.about_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #023047;
+}
+.about_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+    margin-top: 70px;
+}
+.about_subscript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.aboutpage_img_one{
+    margin-top: -100px;
+}
+.about_row_two{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 100px 100px 0 100px;
+}
+.about_row_two_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 1.8183400630950928px;
+    text-align: left;
+    color: #023047;
+}
+.about_row_two_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.about_row_two_sub{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.about_row_three{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 100px 100px 0 100px;
+}
+.about_row_three_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 1.8183400630950928px;
+    text-align: left;    
+    color: #023047;
+}
+.about_row_four{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    padding: 100px 100px 0 100px;
+}
+.about_row_four_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #023047;
+}
+.award_img{
+    margin: auto;
+    display: block;
+}
+.award_year{
+    font-family: 'Roboto' sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #023047;
+}
+.award_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #023047;
+}
+.award_location{
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #023047;
+}
+.about_row_four_sub{
+    background-color: #023047;
+    height: 500px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 50px 0 50px 50px;
+}
+.about_row_four_sub_img{
+    width: 100%;
+}
+.about_row_one_col_one{
+    padding-left: 70px !important; 
+    padding-top: 50px;
+}
+.about_row_four_sub_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 1.8183400630950928px;
+    text-align: left;
+    color: #fff;
+}
+.about_row_four_sub_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+.about_row_four_sub_content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+.about_row_four_subscript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 0 !important;
+}
+.about_row_four_superscript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;    
+    color: #fff;
+}
+.about_row_five{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    padding: 100px 100px 0 100px;
+}
+.about_row_five_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #023047;
+}
+.about_row_five_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #35596C;
+}
+.profile_card{
+    border: 0 !important;
+}
+.profile_card_name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #023047;
+}
+.profile_card_designation{
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #023047;
+    margin-bottom: 0 !important;
+}
+.about_row_six{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    padding: 100px 300px 50px 300px;
+}
+/* .about_row_four_sub_col_one{
+    margin-top: 40px;
+} */
+.about_row_six_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;    
+}
+.about_row_six_card{
+    background-color: #FEE7CC;
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px;
+}
+.calender_date{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 53px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;  
+    margin-bottom: 0 !important;  
+}
+.calender_month{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 1.8517338037490845px;
+    text-align: left;
+    color: #023047;    
+}
+.calender_plan{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 1.8517338037490845px;
+    text-align: left;
+    color: #023047;  
+}
+.calender_plan_purpose{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047; 
+}
+.event_sub_col_one{
+    margin-right: 50px;
+}
+.what_we_do_row_one{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.what_we_do_row{
+    padding-left: 100px; 
+    padding-right: 100px;
+}
+.what_we_do_row_one_col_one{
+    padding-right: 100px !important;
+    padding-left: 150px !important;
+}
+.what_we_do_row_two{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    background-color: #FEE7CC;
+    padding: 70px;
+}
+.what_we_do_row_two_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.what_icon{
+    color: #FB8500;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.what_we_do_row_two_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.what_we_do_row_two_content{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #35596C;
+}
+.what_we_do_row_three{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    /* padding: 70px; */
+}
+.what_we_do_row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;  
+}
+.what_we_do_row_three_superscript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 1.8185126781463623px;
+    text-align: center;
+    color: #023047;
+}
+.what_we_do_row_three_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #023047;
+}
+.what_card{
+    border-radius: 11px !important;
+}
+.what_card_btn{
+    margin-top: 50px;
+}
+.what_we_do_row_four{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    /* padding: 70px; */
+}
+.what_we_do_row_four_card{
+    padding: 80px 200px 80px 200px !important;
+}
+.what_we_do_row_four_card_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.what_we_do_row_four_vol_btn{
+    background-color: #FB8500 !important;
+    border: 1px #FB8500 !important;
+    color: #fff !important;
+    margin-top: 30px;
+    margin-right: 30px !important;
+    height: 40px;
+}
+.what_we_do_row_four_don_btn{
+    margin-top: 30px;
+    margin-left: 30px !important;
+    height: 40px;
+}
+.what_we_do_row_five{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    /* margin-bottom: 70px; */
+    padding: 100px;
+}
+.what_we_do_row_five_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 51px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.news_hr{
+    border-bottom:0.907333px solid #e5e5e5 !important;
+    width: 75%;
+    margin-bottom: 30px;
+}
+.what_we_do_row_five_card{
+    border: 0 !important;
+}
+.what_link{
+    color: #023047 !important;
+    text-decoration: none !important;
+}
+.news_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+.achievement_card_btn{
+    margin-top: 50px;
+}
+.news_body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: justify;
+}
+.what_we_do_row_six{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    /* margin-top: 50px; */
+    /* margin-bottom: 70px; */
+    padding: 100px;
+}
+.calender_btn{
+    background-color: #fff !important;
+    height: 50px !important;
+    width: 50px !important;
+    border-radius: 50% !important;
+}
+.contact_content{
+    padding: 50px 100px 50px 100px;
+}
+.contact_col_one{
+    padding-left: 70px !important; 
+    padding-top: 50px;
+}
+.contact_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.contact_sub{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.contact_form{
+    padding: 100px 50px 50px 100px;
+    margin-right: 200px !important;
+    margin-left: 200px !important;
+}
+.contact_input{
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-radius: 0 !important;
+}
+.contact_btn{
+    background-color: #FB8500 !important;
+    border: 1px #FB8500 !important;
+    color:  #fff !important;
+}
+.donate_row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 100px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.donate_col_one{
+    padding-left: 70px !important; 
+    padding-top: 50px;
+}
+.donate_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #023047;
+}
+.achievement_row_one{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    padding-left: 150PX;
+    padding-right: 150px;
+}
+/*media*/
+.media_row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px 4px;
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
+.media_col .media_img {
+    margin-top: 30px;
+    vertical-align: middle;
+    width: 100%;
+  }
+/*modal*/
+.skills_modal{
+    border-bottom: 0 !important;
+}
+.skills_modal_content{
+    padding: 0 30px 0 30px !important;
+}
+.skills_modal_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #1D2130;
+}
+.skills_modal_subtitle{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #1D2130;
+}
+.footer_row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    padding: 100px 50px 50px 100px;
+    background-color: #023047;
+}
+.footer_title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+.footer_col{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    list-style-type: none;
+}
+.footer_link{
+    color: #fff !important;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.footer_subscription{
+    font-family: 'Roboto', sans-serif;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #fff;
+}
+
+
+
+/*media screen*/
+
+@media screen and (min-width: 0px) and (max-width: 767px){
+    .logo {
+        width: 63%;
+    }
+    .index_content_title {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .index_content_col_one {
+        padding-left: 50px !important;
+        padding-top: 10px;
+    }
+    .index_title {
+        font-size: 20px;
+        line-height: 25px
+    }
+    .index_row_two {
+        margin-top: 50px;
+        padding: 0px 30px 0 30px;
+    }
+    .about_row_three {
+        padding: 50px 30px 0 30px;
+    }
+    .index_row_three {
+        padding:  50px 30px 0 30px;
+    }
+    .index_row_two_col_one {
+        padding-left: 20px !important;
+        padding-top: 10px;
+    }
+    .index_row_two_col_two {
+        padding-left: 20px !important;
+        padding-top: 10px;
+    }
+    .aboutpage_img_one {
+        margin-top: 0px;
+        width: 100%;
+    }
+    .index_row_two_title {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .index_row_three_title {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .what_we_do_row_five {
+        padding: 30px;
+    }
+    .what_we_do_row_five_title {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .what_we_do_row {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .what_we_do_row_col_one{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .what_we_do_row_col_two{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .calender_date {
+        font-size: 20px;
+        line-height: 17px;
+    }
+    .event_sub_col_one {
+        margin-right: 20px;
+        padding-right: 8px !important;
+        padding-left: 8px !important;
+    }
+    .event_sub_col_two{
+        padding-right: 0 !important;
+    }
+    .event_sub_col_three {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .calender_plan_purpose {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .calender_plan {
+        font-size: 12px;
+        line-height: 16px;
+    } 
+    .calender_btn {
+        background-color: transparent !important;
+        height: 0px !important;
+        width: 0px !important;
+        /* border-radius: 50% !important; */
+    }   
+    .what_we_do_row_six {
+        padding: 30px;
+    }
+    .what_we_do_row_four_card {
+        padding: 10px 30px 10px 30px !important;
+    }
+    .what_we_do_row_four_card_title {
+        font-size: 14px;
+        line-height: 12px;
+    }
+    .achievement_card_text{
+        font-size: 13px;
+        line-height: 12px;
+    }
+    .achievement_card_btn {
+        margin-top: 0;
+    }
+    .index_btn{
+        font-size: 12px;
+    }
+    .what_we_do_row_four_vol_btn {
+        margin-top: 0px;
+        height: 30px;
+    }
+    .what_we_do_row_four_don_btn{
+        margin-top: 0;
+        height: 30px;
+    }
+    .about_subscript {
+        text-align: justify;
+    }
+    .what_we_do_row_two_content{
+        text-align: justify;
+    }
+    .what_we_do_row_four{
+        padding: 7px;
+        margin-left: 10px;
+        margin-top: 0px;
+        margin-bottom: 30px;
+    }
+    .media_row {
+        padding: 25px 4px;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+    .media_col{
+        padding-right: 7px !important;
+        padding-left: 7px !important;
+    }
+    .media_img {
+        margin-top: 10px;
+    }
+    .footer_row{
+        padding: 30px 30px 30px 30px;
+    }
+    .footer_subscription {
+        font-size: 15px;
+        line-height: 14px;
+    }
+
+/*about us*/
+.aboutpage_content {
+    padding: 50px 13px 0 13px;
+}
+.about_title {
+    font-size: 30px;
+    line-height: 30px;
+}
+.about_row_one_col_one{
+    padding-left: 30px !important;
+    padding-top: 20px;
+}
+.about_subtitle{
+    margin-top: 0;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: justify;
+}
+.about_row_two {
+    padding: 50px 30px 0 30px;
+}
+.about_row_two_subtitle {
+    font-size: 22px;
+    line-height: 25px;
+    text-align: justify;
+}
+.about_row_two_sub {
+    text-align: justify;
+}
+.about_row_two_sub_col_two{
+    margin-top: 30px;
+}
+.about_row_four {
+    padding: 50px 30px 0 30px;
+}
+.about_row_four_title {
+    font-size: 22px;
+    line-height: 21px;
+}
+.about_row_four_sub {
+    padding: 30px 0 30px 30px;
+    height: auto;
+}
+.about_row_four_sub_subtitle {
+    font-size: 30px;
+    line-height: 26px;
+}
+.about_row_four_sub_content {
+    font-size: 12px;
+    line-height: 15px;
+    text-align: justify;
+}
+.about_row_five {
+    padding: 50px 30px 0 30px;
+}
+.about_row_six {
+    padding: 50px 16px 50px 15px;
+}
+.about_row_four_sub_col_one{
+    padding-right: 28px !important;
+    padding-left: 0 !important;
+}
+.about_row_four_sub_img {
+    width: 86%;
+}
+.about_row_four_subscript {
+    font-size: 17px;
+}
+.about_row_four_col{
+    padding-left: 12px !important;
+    padding-right: 0 !important;
+}
+/*what we do*/
+.what_we_do_row_one_col_one {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+.what_we_do_row_one_img{
+    width: 100%;
+}
+.what_we_do_row_two {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+.what_we_do_row_two_title{
+    font-size: 30px;
+    line-height: 24px;
+}
+.what_we_do_row_three_title {
+    font-size: 25px;
+    line-height: 22px;
+}
+.what_card_text{
+    font-size: 14px;
+    line-height: 14px;
+}
+.what_card {
+    margin: 30px;
+}
+.what_card_btn{
+    margin-top: 0;
+}
+/*contact*/
+.contact_content {
+    padding: 50px 30px 50px 30px;
+}
+.contact_col_one{
+    padding-left: 15px !important;
+}
+.contact_form {
+    padding: 50px 30px 30px 30px;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+/*donate*/
+.donate_col_one{
+    padding-left: 15px !important; 
+    padding-top: 15px;
+}
+.donate_img_one{
+    width: 100%;
+    margin-top: 20px;
+}
+.donate_row {
+    padding: 30px;
+}
+.donate_title {
+    font-size: 30px;
+    line-height: 29px;
+    text-align: justify;
+}
+.donate_tab{
+    text-align: justify;
+}
+}
+
+@media screen and (min-width:  768px) and (max-width: 1024px) {
+    .navbar-brand{
+        width: 90% !important;
+    }
+    .index_content_title {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .index_row_two {
+        margin-top: 80px;
+        padding: 0px 50px 0 50px;
+    }
+    .index_row_two_col_one {
+        padding-left: 30px !important;
+    }
+    .index_row_two_col_two {
+        padding-left: 0 !important;
+        padding-top: 50px;
+    }
+    .about_row_three {
+        padding: 100px 30px 0 30px;
+    }
+    .index_row_three {
+        padding: 100px 50px 0 50px;
+    }
+    .what_we_do_row {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .achievement_card_text{
+        font-size: 12px;
+    }.achievement_card_btn {
+        margin-top: 0;
+    }
+    .index_row_two_title {
+        font-size: 38px;
+        line-height: 34px;
+    }
+    .what_we_do_row_four_card {
+        padding: 30px 100px 30px 100px !important;
+    }
+    .what_we_do_row_five {
+        padding: 50px;
+    }
+    .what_we_do_row_six {
+        padding: 50px;
+    }
+    .event_sub_col_one {
+        margin-right: 25px;
+        padding-right: 8px !important;
+        padding-left: 8px !important;
+    }
+    .event_sub_col_two{
+        padding-right: 0 !important;
+    }
+    .event_sub_col_three {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .aboutpage_content {
+        padding: 50px 50px 0 50px;
+    }
+    .about_row_one_col_one {
+        padding-left: 44px !important;
+    }
+    .about_row_two {
+        padding: 60px 60px 0 60px;
+    }
+    .about_row_four_sub_subtitle {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .about_row_five {
+        padding: 100px 60px 0 60px;
+    }
+    .about_row_six {
+        padding: 100px 50px 50px 50px;
+    }
+    .about_subtitle{
+        margin-top: 20px;
+    }
+    .what_we_do_row_one_col_one {
+        padding-right: 30px !important;
+        padding-left: 50px !important;
+    }
+    .contact_content {
+        padding: 50px 50px 50px 50px;
+    }
+    .contact_col_one {
+        padding-left: 30px !important;
+        padding-top: 50px;
+    }
+    .contact_form {
+        padding: 100px 50px 50px 50px;
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+    .media_row {
+        margin-left: 150px !important;
+        margin-right: 150px !important;
+    }
+    .footer_row {
+        padding: 50px 50px 50px 50px;
+    }    
+    .footer_subscription {
+        font-size: 29px;
+        line-height: 26px;
+    }
+    .footer_col{
+        padding-inline-start: 0 !important;
+    }
+}
