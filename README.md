@@ -1,0 +1,2 @@
+# itskills4africa
+Information Technology Skills for Africa (ITskills4Africa) is a registered non- governmental organization that is passionate and committed to raising innovative champions by  pacesetting the global educational standards through Information Technology skills, availing Leadership and Career Mentorship to all Africans as well as mobilizing resources to promote sustainable growth and development in Africa.
